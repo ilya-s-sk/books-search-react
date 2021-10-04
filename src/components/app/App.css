@@ -1,0 +1,7 @@
+.App {
+    background: rgb(29,48,67);
+    background: linear-gradient(90deg, rgba(29,48,67,1) 0%, rgba(59,128,52,0.9080766095500701) 50%, rgba(94,37,37,1) 100%); 
+    
+    min-height: 100vh;
+    padding-bottom: 25px;
+}

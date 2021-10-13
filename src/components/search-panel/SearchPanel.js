@@ -4,12 +4,12 @@ import {Link} from 'react-router-dom';
 import {searchTextEnter, orderSelected, categorySelected, booksRequested, booksLoaded, booksError} from '../../actions'
 
 import './search-panel.scss';
-import Background from './bgc.jpg';
+import Background from './bg.jpg';
 
 function SearchPanel({
             searchText, orderBy, category, 
-            searchTextEnter, orderSelected, categorySelected, booksRequested, booksLoaded, booksError, 
-            loading, error}) {
+            searchTextEnter, orderSelected, categorySelected, 
+            booksRequested, booksLoaded, booksError}) {
 
     function onSearchChange(e) {
         searchTextEnter(e.target.value)

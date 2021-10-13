@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/books-search-react/static/css/main.10c47fc7.chunk.css",
-    "main.js": "/books-search-react/static/js/main.d4a8085e.chunk.js",
-    "main.js.map": "/books-search-react/static/js/main.d4a8085e.chunk.js.map",
+    "main.css": "/books-search-react/static/css/main.edea7c4f.chunk.css",
+    "main.js": "/books-search-react/static/js/main.4885dadd.chunk.js",
+    "main.js.map": "/books-search-react/static/js/main.4885dadd.chunk.js.map",
     "runtime-main.js": "/books-search-react/static/js/runtime-main.fb26eaec.js",
     "runtime-main.js.map": "/books-search-react/static/js/runtime-main.fb26eaec.js.map",
     "static/js/2.33d6e8d0.chunk.js": "/books-search-react/static/js/2.33d6e8d0.chunk.js",
     "static/js/2.33d6e8d0.chunk.js.map": "/books-search-react/static/js/2.33d6e8d0.chunk.js.map",
     "index.html": "/books-search-react/index.html",
-    "static/css/main.10c47fc7.chunk.css.map": "/books-search-react/static/css/main.10c47fc7.chunk.css.map",
+    "static/css/main.edea7c4f.chunk.css.map": "/books-search-react/static/css/main.edea7c4f.chunk.css.map",
     "static/js/2.33d6e8d0.chunk.js.LICENSE.txt": "/books-search-react/static/js/2.33d6e8d0.chunk.js.LICENSE.txt",
     "static/media/bg.c46d1f58.jpg": "/books-search-react/static/media/bg.c46d1f58.jpg",
     "static/media/book.030c132c.png": "/books-search-react/static/media/book.030c132c.png"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.fb26eaec.js",
     "static/js/2.33d6e8d0.chunk.js",
-    "static/css/main.10c47fc7.chunk.css",
-    "static/js/main.d4a8085e.chunk.js"
+    "static/css/main.edea7c4f.chunk.css",
+    "static/js/main.4885dadd.chunk.js"
   ]
 }

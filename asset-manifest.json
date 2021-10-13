@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/books-search-react/home/static/css/main.61395af8.chunk.css",
-    "main.js": "/books-search-react/home/static/js/main.2d918f1e.chunk.js",
-    "main.js.map": "/books-search-react/home/static/js/main.2d918f1e.chunk.js.map",
-    "runtime-main.js": "/books-search-react/home/static/js/runtime-main.f3d1dc65.js",
-    "runtime-main.js.map": "/books-search-react/home/static/js/runtime-main.f3d1dc65.js.map",
-    "static/js/2.24da6ac2.chunk.js": "/books-search-react/home/static/js/2.24da6ac2.chunk.js",
-    "static/js/2.24da6ac2.chunk.js.map": "/books-search-react/home/static/js/2.24da6ac2.chunk.js.map",
-    "index.html": "/books-search-react/home/index.html",
-    "static/css/main.61395af8.chunk.css.map": "/books-search-react/home/static/css/main.61395af8.chunk.css.map",
-    "static/js/2.24da6ac2.chunk.js.LICENSE.txt": "/books-search-react/home/static/js/2.24da6ac2.chunk.js.LICENSE.txt",
-    "static/media/bg.c46d1f58.jpg": "/books-search-react/home/static/media/bg.c46d1f58.jpg",
-    "static/media/book.030c132c.png": "/books-search-react/home/static/media/book.030c132c.png"
+    "main.css": "/books-search-react/static/css/main.10c47fc7.chunk.css",
+    "main.js": "/books-search-react/static/js/main.d4a8085e.chunk.js",
+    "main.js.map": "/books-search-react/static/js/main.d4a8085e.chunk.js.map",
+    "runtime-main.js": "/books-search-react/static/js/runtime-main.fb26eaec.js",
+    "runtime-main.js.map": "/books-search-react/static/js/runtime-main.fb26eaec.js.map",
+    "static/js/2.33d6e8d0.chunk.js": "/books-search-react/static/js/2.33d6e8d0.chunk.js",
+    "static/js/2.33d6e8d0.chunk.js.map": "/books-search-react/static/js/2.33d6e8d0.chunk.js.map",
+    "index.html": "/books-search-react/index.html",
+    "static/css/main.10c47fc7.chunk.css.map": "/books-search-react/static/css/main.10c47fc7.chunk.css.map",
+    "static/js/2.33d6e8d0.chunk.js.LICENSE.txt": "/books-search-react/static/js/2.33d6e8d0.chunk.js.LICENSE.txt",
+    "static/media/bg.c46d1f58.jpg": "/books-search-react/static/media/bg.c46d1f58.jpg",
+    "static/media/book.030c132c.png": "/books-search-react/static/media/book.030c132c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f3d1dc65.js",
-    "static/js/2.24da6ac2.chunk.js",
-    "static/css/main.61395af8.chunk.css",
-    "static/js/main.2d918f1e.chunk.js"
+    "static/js/runtime-main.fb26eaec.js",
+    "static/js/2.33d6e8d0.chunk.js",
+    "static/css/main.10c47fc7.chunk.css",
+    "static/js/main.d4a8085e.chunk.js"
   ]
 }

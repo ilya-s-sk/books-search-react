@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/books-search-react/home/static/css/main.61395af8.chunk.css",
-    "main.js": "/books-search-react/home/static/js/main.68fe3f65.chunk.js",
-    "main.js.map": "/books-search-react/home/static/js/main.68fe3f65.chunk.js.map",
+    "main.js": "/books-search-react/home/static/js/main.2d918f1e.chunk.js",
+    "main.js.map": "/books-search-react/home/static/js/main.2d918f1e.chunk.js.map",
     "runtime-main.js": "/books-search-react/home/static/js/runtime-main.f3d1dc65.js",
     "runtime-main.js.map": "/books-search-react/home/static/js/runtime-main.f3d1dc65.js.map",
-    "static/js/2.f7ab16b2.chunk.js": "/books-search-react/home/static/js/2.f7ab16b2.chunk.js",
-    "static/js/2.f7ab16b2.chunk.js.map": "/books-search-react/home/static/js/2.f7ab16b2.chunk.js.map",
+    "static/js/2.24da6ac2.chunk.js": "/books-search-react/home/static/js/2.24da6ac2.chunk.js",
+    "static/js/2.24da6ac2.chunk.js.map": "/books-search-react/home/static/js/2.24da6ac2.chunk.js.map",
     "index.html": "/books-search-react/home/index.html",
     "static/css/main.61395af8.chunk.css.map": "/books-search-react/home/static/css/main.61395af8.chunk.css.map",
-    "static/js/2.f7ab16b2.chunk.js.LICENSE.txt": "/books-search-react/home/static/js/2.f7ab16b2.chunk.js.LICENSE.txt",
+    "static/js/2.24da6ac2.chunk.js.LICENSE.txt": "/books-search-react/home/static/js/2.24da6ac2.chunk.js.LICENSE.txt",
     "static/media/bg.c46d1f58.jpg": "/books-search-react/home/static/media/bg.c46d1f58.jpg",
     "static/media/book.030c132c.png": "/books-search-react/home/static/media/book.030c132c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f3d1dc65.js",
-    "static/js/2.f7ab16b2.chunk.js",
+    "static/js/2.24da6ac2.chunk.js",
     "static/css/main.61395af8.chunk.css",
-    "static/js/main.68fe3f65.chunk.js"
+    "static/js/main.2d918f1e.chunk.js"
   ]
 }
